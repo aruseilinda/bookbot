@@ -1,2 +1,2 @@
 # bookbot
-Book Bot is my first git project
+Book Bot is my first Python project
